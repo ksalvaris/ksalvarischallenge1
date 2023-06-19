@@ -22,7 +22,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 ## Link to Deployed Application
-https://ksalvaris.github.io/ksalvarischallenge1/#user-story-given
+https://ksalvaris.github.io/ksalvarischallenge1
 
 ### Technical Acceptance Criteria Met
   * Application's links all function correctly. 
